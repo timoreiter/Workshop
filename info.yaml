@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     354858054593504257       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Workshop"      # Wokwi Test
+  title:        "test"      # Wokwi Test
   author:       "Timo Reiter"      # Timo Reiter
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Test"      # One line description of what your project does
